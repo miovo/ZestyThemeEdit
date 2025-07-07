@@ -267,6 +267,9 @@
   }
 
   /* Prominent play button */
+.layout-desktop .tvGuideHeader{
+  padding-top: 20px;
+}
 
   .layout-desktop .btnPlay {
       background-color: rgb(var(--white));
@@ -292,6 +295,7 @@
 
   .layout-desktop .detailPagePrimaryContainer .mainDetailButtons {
     margin: 0em 0;
+    padding-bottom: 20px;
   } 
 
   .layout-desktop div:not(.sectionTitleContainer-cards) > .sectionTitle-cards {
